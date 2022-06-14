@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_baseline_text_snippet_24"
+        android:id="@+id/actionTinTuc"
+        android:title="@string/tv_tin_tuc"/>
+
+    <item
+        android:icon="@drawable/ic_baseline_slow_motion_video_24"
+        android:id="@+id/actionVideo"
+        android:title="@string/tv_video"/>
+    <item
+        android:icon="@drawable/ic_baseline_view_cozy_24"
+        android:id="@+id/actionTienIch"
+        android:title="@string/tv_tien_ich"/>
+</menu>

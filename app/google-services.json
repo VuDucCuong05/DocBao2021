@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960744965545",
+    "project_id": "android45-app-doc-bao",
+    "storage_bucket": "android45-app-doc-bao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960744965545:android:14b449e1deb684be1970b8",
+        "android_client_info": {
+          "package_name": "com.example.android45_app_doc_bao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960744965545-381o6b9rrncrdifomae0eaijjpvebq1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEMknx-wzWzJuw-NaUz7bOURhJBAKdnI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960744965545-381o6b9rrncrdifomae0eaijjpvebq1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

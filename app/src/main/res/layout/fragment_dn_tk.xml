@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:gravity="center|top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:background="@drawable/custom_dang_nhap"
+            android:id="@+id/line1"
+            android:gravity="center"
+            android:weightSum="10"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <ImageView
+                android:id="@+id/imgMuiTenBack"
+                android:src="@drawable/ic_baseline_arrow_back_24"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textSize="24dp"
+                android:text="@string/tb_dang_nhap_bang_gamil"
+                android:layout_weight="8"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+            <ImageView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvNhap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/line1"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="40dp"
+            android:text="@string/tb_dang_nhap_email"
+            android:textSize="20sp" />
+        <EditText
+            android:inputType="text"
+            android:maxLength="30"
+            android:id="@+id/edtNhapEmail"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_below="@id/tvNhap"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/custom_login"
+            android:maxLines="1"
+            android:paddingLeft="10dp"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/tvTaoMk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/edtNhapEmail"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/tb_dang_nhap_pass"
+            android:textSize="20sp" />
+        <RelativeLayout
+            android:id="@+id/line3"
+            android:background="@drawable/custom_login"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/tvTaoMk"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="45dp">
+
+            <EditText
+                android:id="@+id/edtNhapMk"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/custom_tao_mk"
+                android:inputType="textPassword"
+                android:maxLength="30"
+                android:maxLines="1"
+                android:paddingLeft="10dp"
+                android:textSize="17sp" />
+            <ImageView
+                android:id="@+id/imgVisi"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_baseline_visibility_24"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"/>
+            <ImageView
+                android:id="@+id/imgVisiOff"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_baseline_visibility_off_24"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"/>
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btDnTaiKhoan"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_below="@id/line3"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/custom_tao_tai_khoan"
+            android:paddingLeft="10dp"
+            android:text="@string/tv_dang_nhap"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_centerHorizontal="true"
+            android:id="@+id/tvDnEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btDnTaiKhoan"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="@string/tb_lay_lai_mk"
+            android:textColor="@color/xam_dam"
+            android:textSize="17sp" />
+        <LinearLayout
+            android:gravity="center"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/custom_dang_nhap"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="45dp">
+            <TextView
+                android:gravity="center"
+                android:text="@string/tv_chua_co_tk"
+                android:textSize="18sp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:id="@+id/tvTaoTaiKhoan"
+                android:textColor="@color/xam_dam"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:text="@string/tv_tao_tk"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"/>
+        </LinearLayout>
+
+
+
+
+
+    </RelativeLayout>
+</layout>

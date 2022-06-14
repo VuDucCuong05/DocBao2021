@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android45_app_doc_bao">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Android45_App_Doc_Bao"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.example.android45_app_doc_bao_user.dsdd.ActivityDaDocGanDay"
+            android:exported="false" />
+        <activity
+            android:name="com.example.android45_app_doc_bao_tien_ich.ChiTietThoiTiet"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name="com.example.android45_app_doc_bao_tien_ich.TienIch"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name="com.example.android45_app_doc_bao_user.android45_app_doc_bao_dang_nhap.DangNhap"
+            android:exported="true" />
+        <activity
+            android:name="com.example.android45_app_doc_bao_gioi_thieu.ActivityGioiThieu"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.android45_app_doc_bao_user.User"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name="com.example.android45_app_doc_bao_rcv_menu.menuto.MenuTo"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name="com.example.android45_app_doc_bao_doc_chi_tiet.Activiti2_Doc_Chi_Tiet"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name="com.example.android45_app_doc_bao_user.dsluy.ActivityDaLuy"
+            android:exported="true">
+
+        </activity>
+    </application>
+
+</manifest>

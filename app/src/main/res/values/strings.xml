@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Android45_App_Doc_Bao</string>
+    <string name="fb_id">437557421341945</string>
+    <string name="dl_thong_bao">Bạn có chắc muốn thoát không!</string>
+    <string name="dl_no">NO</string>
+    <string name="dl_yes">YES</string>
+
+
+    <string name="tv_tin_tuc">Tin tức</string>
+    <string name="tv_video">Video</string>
+    <string name="tv_tien_ich">Tiện ích</string>
+    <string name="edt_tim_kiem">Nhập nội dung muốn tìm kiếm</string>
+    <string name="tv_size">22dp</string>
+
+
+    <string name="tv_lich">Lịch việt</string>
+    <string name="tv_thoitiet">Thời tiết</string>
+    <string name="tv_ket_qua_xo_so">Kết quả xổ số</string>
+    <string name="tv_gia_vang">Giá vàng, Ngoại tệ</string>
+    <string name="tv_live">Live Score</string>
+    <string name="tv_tiep_kiem3g">Tiết kiệm 3G/4G truy cập</string>
+    <string name="tv_tien_ich_khach">Tiện ích khác</string>
+
+    <string name="tv_cai_dat">CÀI ĐẶT</string>
+    <string name="tv_co_chu">Cỡ chứ, Font</string>
+    <string name="tv_theme">Theme</string>
+    <string name="tv_font">Font</string>
+    <string name="tv_giong_doc">Giọng đọc</string>
+    <string name="tv_giong_doc1">Phát ngẫy nhiên</string>
+    <string name="tv_tindp">Tin địa phương</string>
+    <string name="tv_tindp1">Chọn địa phương</string>
+    <string name="tv_nang_cao">Nâng cao</string>
+
+
+    <string name="tv_dang_xua">Đăng xuất</string>
+
+    <!-- User - Đã đánh dấu -->
+    <string name="tv_da_danh_dau">Đã đánh dấu</string>
+    <string name="tv_da_doc">Danh sách đã đọc</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Giới thiệu-->
+    <string name="gt">Ứng dụng đọc báo</string>
+    <string name="gt11">UY TÍN, ĐA DẠNG,</string>
+    <string name="gt12">NHANH CHÓNG</string>
+    <string name="gt3">Cá nhân hóa mang đến</string>
+    <string name="gt31">TRẢI NGHIỆM TỐT NHẤT</string>
+    <string name="gt33">KHÁM PHÁ</string>
+
+    <!-- Dialog -->
+    <string name="sf_san_serif">SF San-serif</string>
+    <string name="bookerly">Bookerly</string>
+
+    <!-- Login -->
+    <string name="tv_dang_nhap">Đăng nhập</string>
+    <string name="tv_dang_nhap_fb">Đăng nhập bằng Facebook</string>
+    <string name="tv_dang_nhap_google">Đăng nhập bằng Google</string>
+    <string name="tv_dang_nhap_email"><u>Đăng nhập bằng Email</u></string>
+    <string name="tv_chua_co_tk">Chưa có tài khoản?</string>
+    <string name="tv_tao_tk"><u>Tạo tài khoản</u></string>
+    <!--  Tao tk-->
+    <string name="tv_tao_tk1">Tạo tài khoản</string>
+    <string name="tv_nhap_email">Nhập email</string>
+    <string name="tv_tao_mk">Tạo mật khẩu</string>
+    <string name="tv_nhap_lai_mk">Nhập lại mật khẩu</string>
+    <string name="tv_tao_tai_khoan">Tạo tài khoản</string>
+    <string name="tv_da_co_tl">Đã tài khoản</string>
+    <string name="tv_dm"><u>Đăng nhập</u></string>
+    <string name="tv_quy_dinh">Khi bấm tạo tài khoản bạn đã đồng ý với <u><i> quy định</i></u> của tòa soạn</string>
+
+    <string name="tb_nhap_day_du">Bạn cần nhập đầy đủ thông tin</string>
+    <string name="tb_ton_tai_gmail">Đã tồn tại Gmail!</string>
+    <string name="tb_gmail_mk_khong_khop">Gmail hoặc mật khẩu không khớp!</string>
+
+    <string name="tb_gmail">Bạn nhập sai gmail</string>
+    <string name="tb_pass">Mật khẩu gồm 8 ký tự tối thiếu 1 chữ hoa, 1 chữ thường và 1 số</string>
+    <string name="tb_pass_kk">Mật khẩu không khớp</string>
+    <string name="tb_dang_nhap_bang_gamil">Đăng nhập bằng email</string>
+    <string name="tb_dang_nhap_email">Email</string>
+    <string name="tb_dang_nhap_pass">Mật khẩu</string>
+    <string name="tb_lay_lai_mk"><u>Lấy lại mật khẩu</u></string>
+
+    <!-- Đăng nhập-->
+
+    <!--Tiện ích-->
+    <string name="tien_ich">TIỆN ÍCH</string>
+
+
+</resources>

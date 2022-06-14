@@ -1,0 +1,7 @@
+<root>
+    <item name='retrofit2.Retrofit T create(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>

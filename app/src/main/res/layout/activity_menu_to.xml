@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_margin="9dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+       <LinearLayout
+           android:id="@+id/line1"
+           android:background="@drawable/custtom_title_menu_to"
+           android:weightSum="5"
+           android:orientation="horizontal"
+           android:layout_width="match_parent"
+           android:layout_height="40dp">
+           <TextView
+               android:layout_weight="0.5"
+               android:layout_width="0dp"
+               android:layout_height="match_parent"/>
+           <TextView
+               android:textColor="@color/black"
+               android:textSize="24dp"
+               android:textStyle="bold"
+               android:gravity="center"
+               android:text="Danh mục"
+               android:layout_weight="4"
+               android:layout_width="0dp"
+               android:layout_height="match_parent"/>
+           <ImageView
+               android:layout_gravity="center"
+               android:id="@+id/imgMuiTen"
+               android:src="@drawable/ic_baseline_arrow_forward_24"
+               android:layout_weight="0.5"
+               android:layout_width="0dp"
+               android:layout_height="35dp"/>
+       </LinearLayout>
+
+        <EditText
+            android:maxLines="1"
+            android:id="@+id/edtSearch"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@id/line1"
+            android:drawableRight="@drawable/ic_baseline_search_24"
+            android:inputType="text" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcvMenuTo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/edtSearch" />
+
+    </RelativeLayout>
+</layout>

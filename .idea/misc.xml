@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DevProJava/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_dialog.xml" value="0.1935185185185185" />
+        <entry key="..\:/DevProJava/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_dialog_title.xml" value="0.20277777777777778" />
+        <entry key="..\:/DevProJava/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_chi_tiet_thoi_tiet.xml" value="0.1962962962962963" />
+        <entry key="..\:/DevProJava/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/dialog_co_chu.xml" value="0.15833333333333333" />
+        <entry key="..\:/DevProJava/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/dialog_custom_tim_kiem_dd.xml" value="0.15833333333333333" />
+        <entry key="..\:/DevProJava/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_dang_nhap.xml" value="0.15833333333333333" />
+        <entry key="..\:/DevProJava/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/icon_lv.xml" value="0.1962962962962963" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_dang_nhap.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_trang_chu.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/drawable/custum_rvc_menu.xml" value="0.28055555555555556" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_activiti2_doc_chi_tiet.xml" value="0.2212962962962963" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_chi_tiet_thoi_tiet.xml" value="0.3212962962962963" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_da_doc.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_da_doc_gan_day.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_da_luy.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_gioi_thieu.xml" value="0.15" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_menu_to.xml" value="0.1" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_user.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/dialog_co_chu.xml" value="0.2564814814814815" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/dialog_custom_tim_kiem_dd.xml" value="0.3359375" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_dang_nhap.xml" value="0.17592592592592593" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_dn_tk.xml" value="0.17592592592592593" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_onboarding1.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_onboarding2.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_onboarding3.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_tao_tk.xml" value="0.12037037037037036" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_trang_chu.xml" value="0.3359375" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_video.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/icon_lv.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/icon_rcv_menu.xml" value="0.5" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/icon_rcv_noi_dung.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/icon_video.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/icon_video_youtobe.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/item_banner.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/trang_chu.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/menu/menu_bottom_nav.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2111111111111111" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_bg_circle.xml" value="0.25092592592592594" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_bo_goc.xml" value="0.3333333333333333" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_dang_nhap.xml" value="0.29907407407407405" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_dia_chi.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_dialog.xml" value="0.18611111111111112" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_dialog_title.xml" value="0.18611111111111112" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_login.xml" value="0.2712962962962963" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_tao_mk.xml" value="1.15" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_tao_tai_khoan.xml" value="1.15" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_thoi_tiet.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custom_tung_ngay.xml" value="0.14270833333333333" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custtom_menu_to.xml" value="0.2675925925925926" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custtom_title_menu_to.xml" value="0.25555555555555554" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custtom_user.xml" value="0.26296296296296295" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/custum_rvc_menu.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.15833333333333333" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_arrow_circle_down_24.xml" value="0.15833333333333333" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_blur_circular_24.xml" value="0.15833333333333333" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.15833333333333333" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_slow_motion_video_24.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_text_snippet_24.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_trending_up_24.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_view_cozy_24.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_baseline_view_list_24.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/drawable/icon_rcv_noi_dung.xml" value="0.2705078125" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_activiti2_doc_chi_tiet.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_chi_tiet_thoi_tiet.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_da_luy.xml" value="0.30386740331491713" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_dang_nhap.xml" value="0.22" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_gioi_thieu.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_menu_to.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_tao_tai_khoan.xml" value="0.1875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_test.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_tien_ich.xml" value="0.1875" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_tim_kiem.xml" value="0.33" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/activity_user.xml" value="0.18" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/custom_dialog_tim_kiem.xml" value="0.2" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/dialog_co_chu.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/dialog_custom_tim_kiem_dd.xml" value="0.25" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_dang_nhap.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_dn_tk.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_onboarding1.xml" value="0.22" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_onboarding2.xml" value="0.22" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_onboarding3.xml" value="0.3359375" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_tao_tk.xml" value="0.20260416666666667" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/icon_lv.xml" value="0.33076923076923076" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/icon_rcv_da_luy.xml" value="0.3359375" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/icon_rcv_menu.xml" value="0.5" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/icon_rcv_menu_to.xml" value="0.5" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/icon_rcv_noi_dung.xml" value="0.32320441988950277" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/icon_search.xml" value="0.3359375" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/thoi_su_fragment.xml" value="0.3359375" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/layout/trang_chu.xml" value="0.29814814814814816" />
+        <entry key="..\:/DevProJava/appTrenLop/Android45_App_Doc_Bao/app/src/main/res/menu/menu_bottom_nav.xml" value="0.3359375" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_chi_tiet_thoi_tiet.xml" value="0.33076923076923076" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_dang_nhap.xml" value="0.3359375" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_main.xml" value="0.2140625" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_tien_ich.xml" value="0.3359375" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/activity_user.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_dang_nhap.xml" value="0.33076923076923076" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_tien_ich.xml" value="0.25" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_trang_chu.xml" value="0.30092592592592593" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/fragment_user.xml" value="0.22" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/layout/trang_chu.xml" value="0.3359375" />
+        <entry key="..\:/Users/Duc_Cuong/Desktop/Android45_App_Doc_Bao/Android45_App_Doc_Bao/app/src/main/res/menu/menu_bottom_nav.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
